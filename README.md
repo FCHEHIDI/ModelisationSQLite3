@@ -1,5 +1,5 @@
 # 📚 Solution - Système de Redevances d'Édition
-
+![ModelisationSQLite3](databases.png)
 ## 🎯 Vue d'ensemble
 
 Ce projet présente une solution complète de modélisation d'un système de calcul de redevances pour un groupe d'édition, conformément aux principes MERISE et aux bonnes pratiques de bases de données relationnelles.
